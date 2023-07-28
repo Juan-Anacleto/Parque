@@ -74,7 +74,22 @@ header{
     
 }
 
-.toboga{
+.principais img{
     height: 300px;
     width: 500px;
+}
+
+.principais{
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+
+.principais ul li{
+    margin-top: 45px;
+
+}
+
+.principais p{
+    margin-top: 15px;
 }
