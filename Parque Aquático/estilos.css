@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #0D6BA6;
 }
 
 
@@ -82,14 +83,65 @@ header{
 .principais{
     margin-top: 60px;
     margin-left: 80px;
+    margin-right: 30px;
 }
 
 
-.principais ul li{
+.principais ul ol{
     margin-top: 45px;
 
 }
 
 .principais p{
-    margin-top: 15px;
+    margin: 25px;
+}
+
+.coisa1{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.coisa2{
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+
+.coisa3{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.coisa4{
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+
+.coisa5{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.funcionamento{
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+.horario{
+    height: 150px;
+    width: 150px;
+}
+
+.ingressos{
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+.numeros{
+    margin-top: 60px;
+    margin-left: 80px;
 }
