@@ -167,3 +167,12 @@ header{
     margin-left: 43%;
     margin-top: -30px;
 }
+
+p{
+    color: white;
+}
+
+
+.numeros p{
+    color: white;
+}
