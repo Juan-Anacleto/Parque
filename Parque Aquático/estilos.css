@@ -26,7 +26,18 @@
     display: flex;
     gap: 15px;
     margin-top: 10px;
+    
 }
+
+.ancoras a {
+    text-decoration: none;
+    color: black;
+}
+
+.ancoras a:hover{
+    color:#0D6BA6;
+}
+
 
 #Search{
     border-radius: 100px;
