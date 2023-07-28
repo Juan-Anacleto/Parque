@@ -145,3 +145,22 @@ header{
     margin-top: 60px;
     margin-left: 80px;
 }
+
+
+.redes-sociais{
+    margin-top: 80px;
+}
+.redes-sociais img{
+    border-radius: 1px;
+    width: 15px;
+    height: 15px;
+}
+.redes-sociais a{
+    text-decoration: none;
+    color: white;
+}
+.footer{
+    color: white;
+    margin-left: 43%;
+    margin-top: -30px;
+}
