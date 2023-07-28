@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+.main{
+    background-color: #0D6BA6;
+    padding: 100px;
+}
+.main h1{
+    color: #FF66C4;
+    font-size: 48px;
+    font-family: bold;
+}
+.main p{
+    color: white;
+    margin-top: 2%;
+}
+form {
+   margin-top: 60px;
+}
+form input{
+    border-radius: 15px;
+    margin-top: 2px;
+    width: 636px;
+    height: 59px;
+}
+.digite {
+    width: 535px;
+    height: 130px;
+    border-radius: 20px;
+}
+.enviar{
+    width: 535px;
+    height: 59px;
+    border-radius: 15px;
+}
+.main2 {
+    margin-left: 700px;
+    margin-top: -195px;
+}
+.redes-sociais{
+    margin-top: 80px;
+}
+.redes-sociais a{
+    text-decoration: none;
+    color: white;
+}
+.footer{
+    color: white;
+    margin-left: 43%;
+    margin-top: -29px;
+}
